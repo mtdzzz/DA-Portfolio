@@ -20,12 +20,14 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### [Proj#1 - Buyers Segmentation & Retention Analysis | SQL & Power BI](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
-This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
+### [Proj#1 - Buyers Segmentation & Retention Analysis | SQL & Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%231%20-%20Buyers%20Segmentation%20%26%20Retention%20Analysis)
+**Project Summary**
+This project aims to help e-commerce businesses improve customer retention by segmenting buyers based on their purchasing behavior. Using RFM Analysis and Cohort Analysis, customers were grouped into segments such as Frequent Buyers, Loyal Customers, Churn Risks, and Lost Customers.
 
-### [Proj#1 - Coffee Quality Analysis | SQL, Power BI & Python](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
+**Key insights** revealed that only 34.89% of customers were retained, with Lost Customers accounting for more than half of revenue loss. The analysis provided actionable recommendations to implement re-engagement campaigns, loyalty programs, and personalized marketing strategies to maximize customer retention and business growth.
 
-
-### [Proj#1 - Coffee Quality Analysis | SQL, Power BI & Python](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
+### [Proj#2 - AdventureWorks Sales Analysis | SQL & Power BI]()
+**Project Summary**
+This project analyzes the sales performance of AdventureWorks, a fictional retail company, using SQL and Power BI. The analysis focuses on key metrics such as total sales, top-performing products, customer segmentation, and sales trends across cities. The interactive Power BI dashboard provides actionable insights to optimize business strategies and enhance decision-making.
 
 
