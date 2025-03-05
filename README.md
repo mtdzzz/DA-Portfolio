@@ -1,4 +1,4 @@
-# Data Analysis Portfolio - ofi (Quality & Food Safety)
+# Mai Dung - Data Analysis Portfolio
 
 
 ## Introduction
@@ -20,7 +20,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### [Proj#1 - Coffee Quality Analysis | SQL, Power BI & Python](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
+### [Proj#1 - Buyers Segmentation & Retention Analysis | SQL & Power BI](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
 This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
 
 ### [Proj#1 - Coffee Quality Analysis | SQL, Power BI & Python](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%231%20-%20Coffee%20Quality%20Analysis)
