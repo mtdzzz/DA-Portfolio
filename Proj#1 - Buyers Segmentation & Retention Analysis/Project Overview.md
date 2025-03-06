@@ -1,7 +1,7 @@
 # Proj#1 - Buyers Segmentation & Retention Analysis 
 ## 1.	Business Problem & Objective:
 **Business Problem:**
-E-commerce platforms like Shopee need to understand customer purchasing behavior to optimize marketing efforts and improve customer retention. Without proper customer segmentation, businesses may struggle to personalize marketing campaigns, resulting in inefficient budget allocation and low customer satisfaction.
+E-commerce need to understand customer purchasing behavior to optimize marketing efforts and improve customer retention. Without proper customer segmentation, businesses may struggle to personalize marketing campaigns, resulting in inefficient budget allocation and low customer satisfaction.
 
 **Objective:**
 - Analyze customer buying patterns to segment buyers into different categories.
