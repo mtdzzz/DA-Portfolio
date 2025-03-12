@@ -26,7 +26,10 @@ This project aims to help e-commerce businesses improve customer retention by se
 
 **Key insights** revealed that only 34.89% of customers were retained, with Lost Customers accounting for more than half of revenue loss. The analysis provided actionable recommendations to implement re-engagement campaigns, loyalty programs, and personalized marketing strategies to maximize customer retention and business growth.
 
-### [Proj#2 - AdventureWorks Sales Analysis | SQL & Power BI]()
+### [Proj#2 - Sales Team Performance Analysis Report | Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
+This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
+
+### [Proj#3 - AdventureWorks Sales Analysis | SQL & Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%233%20-%20AdventureWorks%20Sales%20Analysis)
 **Project Summary**
 This project analyzes the sales performance of AdventureWorks, a fictional retail company, using SQL and Power BI. The analysis focuses on key metrics such as total sales, top-performing products, customer segmentation, and sales trends across cities. The interactive Power BI dashboard provides actionable insights to optimize business strategies and enhance decision-making.
 
