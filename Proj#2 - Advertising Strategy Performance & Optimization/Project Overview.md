@@ -9,12 +9,12 @@ The dataset consists of three CSV files extracted from Arpand, a fictional inter
   - **Ad_History.csv**: Records of active and past ad strategies.
 
 **Key Fields**
-- EventType: Seasonal event type (Black Friday, Valentine’s Day, etc.).
-- ABTestGroup: Control and Variation groups for testing.
-- SaleAmountEUR: Revenue after currency conversion.
-- BranchID: Unique branch identifier.
-- AdStrategy: Advertising strategy used.
-- FixedCostEUR & VariableCostEUR: Operational costs per branch.
+- **EventType**: Seasonal event type (Black Friday, Valentine’s Day, etc.).
+- **ABTestGroup**: Control and Variation groups for testing.
+- **SaleAmountEUR**: Revenue after currency conversion.
+- **BranchID**: Unique branch identifier.
+- **AdStrategy**: Advertising strategy used.
+- **FixedCostEUR** & **VariableCostEUR**: Operational costs per branch.
 
 ## 3.	Skill Demonstrated:
 - Data Cleaning & Integration
