@@ -1,4 +1,4 @@
-# Proj#2 - AdventureWorks Sales Analysis
+# Proj#3 - AdventureWorks Sales Analysis
 ## 1.	Business Problem & Objective:
 **Business Problem:**
 E-commerce platforms like Shopee need to understand customer purchasing behavior to optimize marketing efforts and improve customer retention. Without proper customer segmentation, businesses may struggle to personalize marketing campaigns, resulting in inefficient budget allocation and low customer satisfaction.
