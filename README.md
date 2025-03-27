@@ -13,13 +13,19 @@ As a self-learner, I've embarked on a path to develop and enhance my data skills
 
 The projects you'll find below showcase my ability to not only analyze data but also to present it in a clear, visually appealing manner, ensuring decision-makers can easily grasp the insights and take meaningful action. They represent my dedication to learning, my passion for data, and my commitment to making a difference through the power of information.
 
+## Core skills
+- SQL (Data Cleaning, Query Optimization)
+- Power BI (Dashboarding & Data Visualization)
+- Python (Pandas, Numpy)
+- Business Intelligence & Data Storytelling
+
 ## Certificates
 * [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/HFE4M8YWI0XV) (Aug 2024)(Coursera)
 * [SQL for Data Science](https://www.coursera.org/account/accomplishments/records/8S6C9EM1TBI2) (Sep 2024)(Coursera)
 * [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/ab0baeea5bec) (HackerRank) 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
-## Projects
+## Featured Projects
 ### [Proj#1 - Buyers Segmentation & Retention Analysis | SQL & Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%231%20-%20Buyers%20Segmentation%20%26%20Retention%20Analysis)
 **Project Summary**
 This project aims to help e-commerce businesses improve customer retention by segmenting buyers based on their purchasing behavior. Using RFM Analysis and Cohort Analysis, customers were grouped into segments such as Frequent Buyers, Loyal Customers, Churn Risks, and Lost Customers.
