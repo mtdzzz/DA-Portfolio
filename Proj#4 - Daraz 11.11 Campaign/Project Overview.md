@@ -68,26 +68,27 @@ An interactive Power BI dashboard was developed to visualize key findings and en
 - The majority of products have discounts ranging from 20% to 60%.
 - There are some extreme discounts (close to 90%), but they are less frequent.
 
-**Price Distribution Before & After Discount**
+#### b. Price Distribution Before & After Discount
 
 ![image](https://github.com/user-attachments/assets/5a49f5b9-f183-42ec-9c95-559b9c3f75bf)
 - Original Prices have a wider range and higher values.
 - Discounted Prices are significantly lower, showing a clear reduction across all categories.
 - The median price drops notably after applying discounts.
 
-**Discount % vs. Required Sales to Break-even**
+#### c. Discount % vs. Required Sales to Break-even
 
 ![image](https://github.com/user-attachments/assets/a012e129-2385-461e-8ca5-ea82d752897a)
 - As discount % increases, the number of products required to be sold also increases.
 - This confirms that higher discounts require significantly higher sales volume to maintain revenue.
 
 ### 7.2. Statistical Analysis & Modeling
-**ANOVA: Does a Higher Discount Significantly Increase Sales?**
+#### a. ANOVA: Does a Higher Discount Significantly Increase Sales?
 **Hypotheses**:
 - Null (H₀): No significant difference in sales across different discount levels.
 - Alternative (H₁): A significant difference in sales across discount levels.
 
 **Results**: F-statistic = 345.1327716762809, p-value = 3.368098835425772e-146
+
 The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
 
 **Insights**:
@@ -95,7 +96,7 @@ The extremely low p-value (< 0.05) indicates that the differences in average rev
 - These findings serve as input for further analysis (e.g., regression modeling and dashboarding) to **pinpoint the optimal discount rate**.
 
 
-**Multiple Regression Analysis: What Factors Drive Sales Revenue?**
+#### b. Multiple Regression Analysis: What Factors Drive Sales Revenue?
 
 ![image](https://github.com/user-attachments/assets/d6c4de09-2fce-413d-85db-645b70124605)
 - **Model Performance**:
