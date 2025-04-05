@@ -88,7 +88,7 @@ An interactive Power BI dashboard was developed to visualize key findings and en
   - Alternative (H₁): A significant difference in sales across discount levels.
 
 - **Results**: F-statistic = 345.1327716762809, p-value = 3.368098835425772e-146
-  The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
+The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
 
 - **Insights**:
   - While increasing discounts may boost sales, **the relationship is not linear** — beyond a certain threshold, deep discounts could hurt profitability.
