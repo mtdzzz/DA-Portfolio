@@ -62,7 +62,7 @@ An interactive Power BI dashboard was developed to visualize key findings and en
 
 ## 7. Visualization & Insights
 ### 7.1. Exploratory Data Analysis (EDA)
-**Distribution of Discounts**
+#### a. Distribution of Discounts
 
 ![image](https://github.com/user-attachments/assets/928f1ec4-bc61-41d9-a1f6-30fc10ea5862)
 - The majority of products have discounts ranging from 20% to 60%.
