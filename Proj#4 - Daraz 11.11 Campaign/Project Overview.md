@@ -46,7 +46,7 @@ This project aims to analyze sales performance by evaluating key performance ind
 
 ### 6.3. Statistical Analysis & Modeling
 **a. ANOVA: Does a Higher Discount Significantly Increase Sales?**
-Conducted a one-way ANOVA test to compare revenue across different discount tiers:
+- Conducted a one-way ANOVA test to compare revenue across different discount tiers:
   + Low (≤20%)
   + Medium (21%-50%)
   + High (>50%)
