@@ -21,7 +21,11 @@ This project aims to analyze sales performance by evaluating key performance ind
   + **No. of Products to be Sold**: Number of units needed to break even.
 
 ## 4.	Skill Demonstrated:
-- 
+- Data cleaning and wrangling (handling missing values, feature engineering)
+- Exploratory Data Analysis (EDA)
+- Statistical testing (ANOVA, correlation)
+- Regression modeling and interpretation
+- Dashboard development and data storytelling
 
 ## 5.	Tech Stack & Tools
 - **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn)  
@@ -88,7 +92,7 @@ An interactive Power BI dashboard was developed to visualize key findings and en
   - Alternative (H₁): A significant difference in sales across discount levels.
 
 - **Results**: F-statistic = 345.1327716762809, p-value = 3.368098835425772e-146
-The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
+  - The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
 
 - **Insights**:
   - While increasing discounts may boost sales, **the relationship is not linear** — beyond a certain threshold, deep discounts could hurt profitability.
@@ -117,3 +121,19 @@ The extremely low p-value (< 0.05) indicates that the differences in average rev
   - **Non-Significant Predictors**:
     + **Chat Response Rate** had no statistically significant effect on revenue.
     + **Mother & Baby** and **Electronic Accessories** categories also did not show strong influence, possibly due to limited sample size or competition within these segments.
+   
+### 7.3. Dashboard
+![Dashboard Daraz 11 11_page-0001](https://github.com/user-attachments/assets/946b5a50-6bf4-4534-9ef3-8ef73d7f809c)
+**Insights**:
+- **Moderate discounts (20–40%)** is the sweet spot to maximize both sales volume and revenue.
+- Non-Flagship sellers dominate revenue, though Flagships perform better individually.
+- TV & Home Appliances and Electronics Devices are the top-performing categories.
+- **Sales volume is not linearly correlated to deeper discounts**, indicating optimal pricing strategy opportunities.
+- Deep discounts (>50%) have diminishing returns—review pricing strategies to avoid unnecessary margin erosion.
+
+## 8. Business Recommendations
+- Focus future discounts in the 20–40% range to maximize volume without cutting too deeply into margins.
+- Customize discount strategy by category: electronics benefit more from discounting than fashion.
+- Identify and manage outlier products with excessive discounts—consider bundling or clearer segmentation.
+- Run A/B tests on discount tiers to validate future pricing strategies.
+- Explore non-price levers (e.g., urgency messaging, limited-time deals) to supplement modest discounts.
