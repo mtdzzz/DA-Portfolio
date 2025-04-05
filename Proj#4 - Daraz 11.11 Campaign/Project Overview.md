@@ -1,4 +1,4 @@
-# Proj#4 - 
+# Proj#4 - Discount Impact Analysis on Sales Performance – Daraz 11.11 Mega Sale
 ## 1.	Project Overview
 This project aims to analyze sales performance by evaluating key performance indicators (KPIs) from the company's CRM system. The analysis highlights sales performance at different levels, including sales agents, products, customer sectors, and regions. The insights provided help improve decision-making and optimize sales strategies.
 
@@ -57,7 +57,7 @@ This project aims to analyze sales performance by evaluating key performance ind
   + Store Type: Flagship store or not.
   + Product & Delivery Type: One-hot encoded categorical variables.
  
-  ### 6.4. Visualization
+  ### 6.4. Dashboard Development
 An interactive Power BI dashboard was developed to visualize key findings and enable dynamic exploration of discount effectiveness.
 
 ## 7. Visualization & Insights
@@ -86,10 +86,27 @@ An interactive Power BI dashboard was developed to visualize key findings and en
 **Results**: F-statistic = 345.1327716762809, p-value = 3.368098835425772e-146
 The extremely low p-value (< 0.05) indicates that the differences in average revenue across discount groups are **statistically significant**. This suggests that **discount level plays a crucial role in influencing sales revenue**.
 **Insights**:
-- While increasing discounts may boost sales, **the relationship is not linear**—beyond a certain threshold, deep discounts could hurt profitability.
+- While increasing discounts may boost sales, **the relationship is not linear** — beyond a certain threshold, deep discounts could hurt profitability.
 - These findings serve as input for further analysis (e.g., regression modeling and dashboarding) to **pinpoint the optimal discount rate**.
 
 **Multiple Regression Analysis: What Factors Drive Sales Revenue?**
+![image](https://github.com/user-attachments/assets/d6c4de09-2fce-413d-85db-645b70124605)
+- **Model Performance**:
+    + **R-squared = 0.24**: The model explains approximately 24% of the variation in revenue after discounts. While not high, this is typical in real-world ecommerce data where many external factors (e.g., seasonality, competitor pricing, marketing campaigns) influence revenue and are not captured in the dataset.
+    + **F-statistic p-value < 0.001**: The model is **statistically significant** as a whole, indicating that at least some of the predictors have a meaningful relationship with the target variable.
 
+- **Key Findings from Regression Coefficients**:
+    + **Discount (%)**: Higher discounts are associated with **lower revenue**, likely because while units sold may increase, the drop in unit price outweighs the gain in volume. This suggests that **excessive discounting is not always optimal**.
+    + **Flagship Store**: Flagship stores generate significantly higher revenue, likely due to stronger brand trust, better product availability, or exclusive deals. This confirms the value of official stores in campaigns.
+    + **Seller Metrics**:
+        + **Ship On Time**: a negative coefficient may indicate reverse coding or missing data, but it also could mean products with on-time delivery tags were underperformers in this campaign. This needs further investigation.
+        + **Positive Seller Ratings**: Each 1% increase in positive seller ratings is linked to higher revenue, reinforcing the importance of maintaining excellent customer satisfaction.
+    + **Category**:
+        + **Electronics Devices** and **TV & Home Appliances**	have the highest sales impact.
+        + **Sports & Outdoors** is also a high revenue contributor, indicating increasing consumer interest in fitness or outdoor activities.
+        + **Men’s & Boys’ Fashion** is a Moderate revenue driver, showing potential for growth.
+        + **Groceries & Health/Beauty**	shows a negative impact, indicating that discounts might not boost sales as much in this category, possibly due to low price points or consumer preferences during the event.
 
-
+  - **Non-Significant Predictors**:
+    + **Chat Response Rate** had no statistically significant effect on revenue.
+    + **Mother & Baby** and **Electronic Accessories** categories also did not show strong influence, possibly due to limited sample size or competition within these segments.
