@@ -1,6 +1,7 @@
 # Proj#4 - Discount Impact Analysis on Sales Performance – Daraz 11.11 Mega Sale
 ## 1.	Project Overview
 This project aims to analyze sales performance by evaluating key performance indicators (KPIs) from the company's CRM system. The analysis highlights sales performance at different levels, including sales agents, products, customer sectors, and regions. The insights provided help improve decision-making and optimize sales strategies.
+
 **Key Deliverables:**
 - **Power BI Dashboard** presenting key metrics and visualizations for stakeholders.
 - **Python Analysis** for data-driven validation using statistical tests and predictive modeling.
