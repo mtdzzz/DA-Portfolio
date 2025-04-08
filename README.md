@@ -27,19 +27,19 @@ The projects you'll find below showcase my ability to not only analyze data but 
 
 ## Featured Projects
 ### [Proj#1 - Buyers Segmentation & Retention Analysis](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%231%20-%20Buyers%20Segmentation%20%26%20Retention%20Analysis)
-- **Tools Used**: SQL & Power BI
+- **Tools Used**: SQL & Power BI. 
 Analyzed buyer behavior using the Olist E-Commerce dataset to identify key customer segments and understand retention patterns. Developed interactive dashboards in Power BI to visualize buyer lifecycle, churn risk, and cohort trends.
 
 ### [Proj#2 - Sales Team Performance Analysis Report](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
-- **Tools Used:** Power BI
+- **Tools Used:** Power BI. 
 Evaluated sales performance using CRM data to uncover insights at the agent, product, customer, and regional levels. Designed a Power BI dashboard to track KPIs like win rate, deal size, and revenue contribution, empowering management with actionable insights.
 
 ### [Proj#3 - AdventureWorks Sales Analysis](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%233%20-%20AdventureWorks%20Sales%20Analysis)
-- **Tools Used:** SQL & Power BI
+- **Tools Used:** SQL & Power BI. 
 Analyzed sales data for AdventureWorks, a fictional retail company, to uncover trends in revenue, product performance, customer segmentation, and city-level sales distribution. Developed an interactive Power BI dashboard to visualize KPIs and support data-driven business decisions.
 
 ### [Proj#4 - Sales Optimization through Discount Impact Analysis (Daraz's 11/11 Campaign)](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%234%20-%20Daraz%2011.11%20Campaign)
-- **Tools Used:** Python & Power BI
+- **Tools Used:** Python & Power BI. 
 Explored pricing strategy effectiveness using statistical tests and regression models. Visualized pre- and post-discount price distributions, performed ANOVA, and built a predictive model to estimate sales lift.
 
 
