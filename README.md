@@ -31,7 +31,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 
 Analyzed buyer behavior using the Olist E-Commerce dataset to identify key customer segments and understand retention patterns. Developed interactive dashboards in Power BI to visualize buyer lifecycle, churn risk, and cohort trends.
 
-### [Proj#2 - Sales Team Performance Analysis Report](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
+### [Proj#2 - Sales Team Performance Analysis](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
 **Tools Used:** Power BI. 
 
 Evaluated sales performance using CRM data to uncover insights at the agent, product, customer, and regional levels. Designed a Power BI dashboard to track KPIs like win rate, deal size, and revenue contribution, empowering management with actionable insights.
