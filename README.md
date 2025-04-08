@@ -26,20 +26,20 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Featured Projects
-### [Proj#1 - Buyers Segmentation & Retention Analysis | SQL & Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%231%20-%20Buyers%20Segmentation%20%26%20Retention%20Analysis)
-**Project Summary**
-This project aims to help e-commerce businesses improve customer retention by segmenting buyers based on their purchasing behavior. Using RFM Analysis and Cohort Analysis, customers were grouped into segments such as Frequent Buyers, Loyal Customers, Churn Risks, and Lost Customers.
+### [Proj#1 - Buyers Segmentation & Retention Analysis](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%231%20-%20Buyers%20Segmentation%20%26%20Retention%20Analysis)
+- **Tools Used**: SQL & Power BI
+Analyzed buyer behavior using the Olist E-Commerce dataset to identify key customer segments and understand retention patterns. Developed interactive dashboards in Power BI to visualize buyer lifecycle, churn risk, and cohort trends.
 
-**Key insights** revealed that only 34.89% of customers were retained, with Lost Customers accounting for more than half of revenue loss. The analysis provided actionable recommendations to implement re-engagement campaigns, loyalty programs, and personalized marketing strategies to maximize customer retention and business growth.
+### [Proj#2 - Sales Team Performance Analysis Report](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
+- **Tools Used:** Power BI
+Evaluated sales performance using CRM data to uncover insights at the agent, product, customer, and regional levels. Designed a Power BI dashboard to track KPIs like win rate, deal size, and revenue contribution, empowering management with actionable insights.
 
-### [Proj#2 - Sales Team Performance Analysis Report | Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%232%20-%20Sales%20Team%20Performance%20Analysis%20Report)
-This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
-
-### [Proj#3 - AdventureWorks Sales Analysis | SQL & Power BI](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%233%20-%20AdventureWorks%20Sales%20Analysis)
-**Project Summary**
-This project analyzes the sales performance of AdventureWorks, a fictional retail company, using SQL and Power BI. The analysis focuses on key metrics such as total sales, top-performing products, customer segmentation, and sales trends across cities. The interactive Power BI dashboard provides actionable insights to optimize business strategies and enhance decision-making.
+### [Proj#3 - AdventureWorks Sales Analysis](https://github.com/mtdzzz/DA-Portfolio/tree/0dfefd783124c6d097a2d64ad19ab6d5e02addf7/Proj%233%20-%20AdventureWorks%20Sales%20Analysis)
+- **Tools Used:** SQL & Power BI
+Analyzed sales data for AdventureWorks, a fictional retail company, to uncover trends in revenue, product performance, customer segmentation, and city-level sales distribution. Developed an interactive Power BI dashboard to visualize KPIs and support data-driven business decisions.
 
 ### [Proj#4 - Sales Optimization through Discount Impact Analysis (Daraz's 11/11 Campaign)](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%234%20-%20Daraz%2011.11%20Campaign)
-
+- **Tools Used:** Python & Power BI
+Explored pricing strategy effectiveness using statistical tests and regression models. Visualized pre- and post-discount price distributions, performed ANOVA, and built a predictive model to estimate sales lift.
 
 
