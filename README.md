@@ -39,4 +39,7 @@ This project explores factors affecting coffee quality scores, analyzing attribu
 **Project Summary**
 This project analyzes the sales performance of AdventureWorks, a fictional retail company, using SQL and Power BI. The analysis focuses on key metrics such as total sales, top-performing products, customer segmentation, and sales trends across cities. The interactive Power BI dashboard provides actionable insights to optimize business strategies and enhance decision-making.
 
+### Proj#4 - Sales Optimization through Discount Impact Analysis (Daraz's 11/11 Campaign)(https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%234%20-%20Daraz%2011.11%20Campaign)
+
+
 
