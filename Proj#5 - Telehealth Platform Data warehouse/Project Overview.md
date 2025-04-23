@@ -53,7 +53,7 @@ The Power BI dashboard helped reveal:
 - Most in-demand specialties (e.g., General Surgery, Renal Medicine)
 - Patient load trends by day and hour
 - Peak hours of consultation demand (heatmap)
-- Consultation duration by time of day
+- Consultation duration by time of day 
 - No-show impact on operational efficiency
 
 These insights support operations in optimizing scheduling, understanding patient behavior, and improving care delivery.
