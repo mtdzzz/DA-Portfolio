@@ -48,6 +48,7 @@ Explored pricing strategy effectiveness using statistical tests and regression m
 
 ### [Proj#5 - Telehealth Platform Data Warehouse Project](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%235%20-%20Telehealth%20Platform%20Data%20warehouse)
 **Tools Used:** SQL & Power BI. 
+
 A simulated end-to-end data warehousing and business intelligence project in the healthtech domain. This project focuses on transforming messy raw telehealth data into a structured warehouse and delivering interactive dashboards to support data-driven decisions.
 
 
