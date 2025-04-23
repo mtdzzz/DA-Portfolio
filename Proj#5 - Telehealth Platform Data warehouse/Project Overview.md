@@ -3,6 +3,7 @@ A simulated end-to-end data warehousing and business intelligence project in the
 
 ## 1.	Business Problem & Objectives:
 This project simulates the work of a data analyst in a telehealth organization that manages virtual consultations, doctors, prescriptions, and patients. This project involves:
+
 **1. Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 **2. ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
 **3. Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
