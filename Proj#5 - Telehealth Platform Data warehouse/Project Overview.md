@@ -29,7 +29,12 @@ This project uses a synthetic dataset of 100,000 telehealth appointments, doctor
 - **Dimensional Modeling**: Using star schema design  
 
 ## 5.	Data Architecture:
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![raw data](https://github.com/user-attachments/assets/b6296c33-e74d-4484-917b-12f19c31e224)
 
+1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ## 6.	Star Schema Diagram
 ![ERD](https://github.com/user-attachments/assets/913d2230-48f4-4b33-9325-f146e9760243)
