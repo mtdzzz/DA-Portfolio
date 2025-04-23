@@ -43,6 +43,16 @@ This project uses a synthetic dataset of 100,000 telehealth appointments, doctor
 ![Telehealth Operational Insights_page-0002](https://github.com/user-attachments/assets/0c142885-68a2-4b4c-a1c6-8bb71b082e4d)
 
 ## 8. Business Insights & Impact:
+The Power BI dashboard helped reveal:
+- Top-performing doctors by appointment volume
+- Most in-demand specialties (e.g., General Surgery, Renal Medicine)
+- Patient load trends by day and hour
+- Peak hours of consultation demand (heatmap)
+- Consultation duration by time of day
+- No-show impact on operational efficiency
+
+These insights support operations in optimizing scheduling, understanding patient behavior, and improving care delivery.
+
 
 
 
