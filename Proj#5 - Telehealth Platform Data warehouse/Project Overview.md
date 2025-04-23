@@ -6,8 +6,8 @@ This project simulates the work of a data analyst in a telehealth organization t
 - Build a data warehouse from messy, flat healthcare data  
 - Maintain data quality and model healthcare-specific entities  
 - Enable business users to interactively explore operational KPIs through a Power BI dashboard  
---
-## 🎯 Objectives: 
+
+### Objectives: 
 - Transform raw CSV data into a structured star-schema model  
 - Build a dimensional data warehouse using SQL  
 - Ensure high data quality and consistency across entities  
