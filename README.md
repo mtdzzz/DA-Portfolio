@@ -51,7 +51,7 @@ Explored pricing strategy effectiveness using statistical tests and regression m
 
 A simulated end-to-end data warehousing and business intelligence project in the healthtech domain. This project focuses on transforming messy raw telehealth data into a structured warehouse and delivering interactive dashboards to support data-driven decisions.
 
-### [Proj#6 - User Onboarding Funnel & Incentive Strategy Analysis for digital wallet]([https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%235%20-%20Telehealth%20Platform%20Data%20warehouse](https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%236%20-%20User%20Onboarding%20Funnel%20%26%20Incentive%20Strategy%20Analysis%20for%20digital%20wallet))
+### [Proj#6 - User Onboarding Funnel & Incentive Strategy Analysis for digital wallet]((https://github.com/mtdzzz/DA-Portfolio/tree/main/Proj%236%20-%20User%20Onboarding%20Funnel%20%26%20Incentive%20Strategy%20Analysis%20for%20digital%20wallet)
 **Tools Used:** SQL & Power BI. 
 
 A digital wallet application is seeing strong app downloads but low user activation. The onboarding process consists of multiple optional and required steps that may cause friction or confusion, leading to user drop-off before first use. This project investigates where users drop off and whether incentive programs are effectively driving conversions.
